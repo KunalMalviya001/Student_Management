@@ -1,0 +1,6 @@
+PORT=3000                  # Port your Express server will listen on
+DB_HOST=localhost          # Database host, usually localhost for local dev
+DB_USER=root               # Database username
+DB_PASSWORD=root123        # Database password
+DB_NAME=school_management  # Name of your MySQL database
+DB_PORT=3306               # MySQL default port
